@@ -14,5 +14,5 @@ pod 'PSPDFKitOCR'
 
 [PSPDFKit GmbH](https://pspdfkit.com)
 
-# License
+## License
 [Commercial](https://pspdfkit.com/legal/License.pdf)
